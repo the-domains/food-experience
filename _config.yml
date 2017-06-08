@@ -1,18 +1,3 @@
-layout_spectrum: 0.9633110282291648
-typography_spectrum: 0.5881520558837432
-color:
-  lightness: 0.3677056833957829
-  brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
-  saturation: 0.14746231268870064
-  brandStrength: 0.8682460011489284
-  rhythmicContrast: 0.5413825187095358
-coverPrefs:
-  filter: false
 name: Food experience
 analytics: {}
 github: true
@@ -38,7 +23,20 @@ collections:
       format: rss
       number: 10
 content: []
+layout_spectrum: 0.9686452648602426
+color:
+  lightness: 0.3240378573536873
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  saturation: 0.4384072523098439
+  brandStrength: 0.2752747933845967
+  rhythmicContrast: 0.4459888683632016
 content_rating:
   adult: false
+typography_spectrum: 0.8432624572888017
 opengraph: {}
 title: '#foodie'
