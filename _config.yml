@@ -1,0 +1,44 @@
+layout_spectrum: 0.9633110282291648
+typography_spectrum: 0.5881520558837432
+color:
+  lightness: 0.3677056833957829
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  saturation: 0.14746231268870064
+  brandStrength: 0.8682460011489284
+  rhythmicContrast: 0.5413825187095358
+coverPrefs:
+  filter: false
+name: Food experience
+analytics: {}
+github: true
+description: all about having fun and good food
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+content_rating:
+  adult: false
+opengraph: {}
+title: '#foodie'
